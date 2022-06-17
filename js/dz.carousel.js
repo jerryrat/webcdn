@@ -250,5 +250,5 @@ jQuery(document).ready(function() {
 			}
 		}
 	})
-
+})
 /* Document .ready END */
